@@ -36,5 +36,4 @@ Sınıflandırma raporu (precision, recall, f1-score) ve karışıklık matrisi 
  Uzun vadede, bilgisayarla görme ve derin öğrenme tekniklerini yalnızca görüntü sınıflandırmada değil, aynı zamanda kendi alanımla birleştirip nöropsikoloji alanında da kullanmayı hedefliyorum. Özellikle beyin görüntüleme verilerinin analizi, bilişsel işlevlerle ilişkili görsel desenlerin sınıflandırılması ve klinik değerlendirmelerde karar destek sistemlerinin geliştirilmesi gibi alanlarda bu yöntemlerin önemli katkılar sağlayabileceğini düşünüyorum.
 
 ## Linkler 
-https://colab.research.google.com/drive/1YCwGSDHoRyI6ZEK0A0UbQ2xyTiCPNsL1?usp=sharing
-
+https://www.kaggle.com/code/rozelinsungur/cnn-le-ek-t-r-siniflandirma-rozelin-sungur
